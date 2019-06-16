@@ -1,0 +1,2 @@
+# CoolerMasterRGB
+Projekt podświetlenia RGB
